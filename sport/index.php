@@ -126,12 +126,12 @@
 							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/onde-5.png" alt="Image" style="max-width:100%;"></a></div>
 							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/onde-6.png" alt="Image" style="max-width:100%;"></a></div>
 							  <br>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/onde-1.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/onde-2.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/onde-3.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/onde-4.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/onde-5.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/onde-6.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/onde-7.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/onde-8.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/onde-9.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/onde-10.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/onde-11.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/onde-12.png" alt="Image" style="max-width:100%;"></a></div>
 							</div><!--.row-->
 						</div><!--.item-->
 						 
@@ -144,12 +144,12 @@
 							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/onde-5.png" alt="Image" style="max-width:100%;"></a></div>
 							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/onde-6.png" alt="Image" style="max-width:100%;"></a></div>
 							  <br>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/onde-1.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/onde-2.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/onde-3.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/onde-4.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/onde-5.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/onde-6.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/onde-7.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/onde-8.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/onde-9.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/onde-10.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/onde-11.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/onde-12.png" alt="Image" style="max-width:100%;"></a></div>
 							</div><!--.row-->
 						</div><!--.item-->
 						 
@@ -162,12 +162,12 @@
 							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/onde-5.png" alt="Image" style="max-width:100%;"></a></div>
 							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/onde-6.png" alt="Image" style="max-width:100%;"></a></div>
 							  <br>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/onde-1.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/onde-2.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/onde-3.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/onde-4.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/onde-5.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/onde-6.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/onde-7.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/onde-8.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/onde-9.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/onde-10.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/onde-11.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/onde-12.png" alt="Image" style="max-width:100%;"></a></div>
 							</div><!--.row-->
 						</div><!--.item-->
 						 
@@ -210,33 +210,33 @@
 							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-5.png" alt="Image" style="max-width:100%;"></a></div>
 							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-6.png" alt="Image" style="max-width:100%;"></a></div>
 							  <br><br>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-1.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-2.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-3.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-4.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-5.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-6.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-7.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-8.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-9.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-10.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-11.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-12.png" alt="Image" style="max-width:100%;"></a></div>
 							  <br><br>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-1.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-2.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-3.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-4.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-5.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-6.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-13.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-14.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-15.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-16.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-17.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-18.png" alt="Image" style="max-width:100%;"></a></div>
 							  <br><br>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-1.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-2.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-3.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-4.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-5.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-6.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-19.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-20.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-21.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-22.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-23.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-24.png" alt="Image" style="max-width:100%;"></a></div>
 							  <br><br>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-1.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-2.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-3.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-4.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-5.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-6.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-25.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-26.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-27.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-28.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-29.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-30.png" alt="Image" style="max-width:100%;"></a></div>
 							</div><!--.row-->
 						</div><!--.item-->
 						 
@@ -249,33 +249,33 @@
 							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-5.png" alt="Image" style="max-width:100%;"></a></div>
 							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-6.png" alt="Image" style="max-width:100%;"></a></div>
 							  <br><br>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-1.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-2.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-3.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-4.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-5.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-6.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-7.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-8.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-9.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-10.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-11.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-12.png" alt="Image" style="max-width:100%;"></a></div>
 							  <br><br>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-1.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-2.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-3.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-4.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-5.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-6.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-13.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-14.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-15.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-16.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-17.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-18.png" alt="Image" style="max-width:100%;"></a></div>
 							  <br><br>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-1.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-2.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-3.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-4.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-5.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-6.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-19.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-20.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-21.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-22.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-23.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-24.png" alt="Image" style="max-width:100%;"></a></div>
 							  <br><br>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-1.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-2.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-3.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-4.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-5.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-6.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-25.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-26.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-27.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-28.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-29.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-30.png" alt="Image" style="max-width:100%;"></a></div>
 							</div><!--.row-->
 						</div><!--.item-->
 						 
@@ -288,33 +288,33 @@
 							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-5.png" alt="Image" style="max-width:100%;"></a></div>
 							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-6.png" alt="Image" style="max-width:100%;"></a></div>
 							  <br><br>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-1.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-2.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-3.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-4.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-5.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-6.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-7.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-8.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-9.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-10.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-11.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-12.png" alt="Image" style="max-width:100%;"></a></div>
 							  <br><br>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-1.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-2.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-3.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-4.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-5.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-6.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-13.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-14.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-15.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-16.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-17.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-18.png" alt="Image" style="max-width:100%;"></a></div>
 							  <br><br>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-1.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-2.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-3.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-4.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-5.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-6.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-19.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-20.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-21.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-22.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-23.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-24.png" alt="Image" style="max-width:100%;"></a></div>
 							  <br><br>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-1.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-2.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-s-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-3.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-4.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-5.png" alt="Image" style="max-width:100%;"></a></div>
-							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-6.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-25.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-26.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-27.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-28.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-29.png" alt="Image" style="max-width:100%;"></a></div>
+							  <div class="col-md-2 col-sm-2 col-xs-4"><a href="#" class="thumbnail"><img src="images/quem-30.png" alt="Image" style="max-width:100%;"></a></div>
 							</div><!--.row-->
 						</div><!--.item-->
 						 
