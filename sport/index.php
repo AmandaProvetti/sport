@@ -92,15 +92,13 @@
 				<h2 class="cases_title">DELOITTE</h2>
 				<p class="frase">PROGRAMA DE HOSPITALIDADE JOGOS OLÍMPICOS LONDRES 2012</p>
 				
-				<div class="slideshow"></div>
-				
-				
+				<div class="slideshow"></div>			
 				
 			</div>
 		</div>
 		<a href="#ondeNav" class="proximo"></a>
 	</div>
-	
+
 	<div id="ondeNav" class="onde relative">
 		<div class="container">
 			<a name="ondeNav"></a>
@@ -184,7 +182,7 @@
 		</div>
 		<a href="#quemNav" class="proximo"></a>
 	</div>
-	
+
 	<div id="quemNav" class="paraQuem relative">
 		<div class="container">
 			<a name="quemNav"></a>
@@ -331,7 +329,7 @@
 		</div>
 		<a href="#queNav" class="proximo"></a>
 	</div>
-	
+
 	<div id="queNav" class="oQue relative">
 		<div class="container">
 			<a name="queNav"></a>
@@ -352,7 +350,7 @@
 		</div>
 		<a href="#sobreNav" class="proximo"></a>
 	</div>
-	
+
 	<div id="sobreNav" class="sobre relative">
 		<div class="container">
 			<a name="sobreNav"></a>
@@ -376,7 +374,7 @@
 		</div>
 		<a href="#contatoNav" class="proximo"></a>
 	</div>
-	
+
 	<div id="contatoNav" class="contato relative">
 		<div class="container">
 			<a name="contatoNav"></a>

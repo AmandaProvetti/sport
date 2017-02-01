@@ -43,8 +43,6 @@ var Menu = {
 				$("header").animate({height: "7em"}, 1200);
 			});
 		}
-		
-		
 	},
 	
 	clickAndAnimate: function() {
@@ -56,7 +54,6 @@ var Menu = {
 			$("body").stop().animate({scrollTop: offset-diff}, "slow", "linear");
 			
 		});
-		
 	}
 	
 };
