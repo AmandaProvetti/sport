@@ -85,23 +85,21 @@
 		<a href="#casesNav" class="proximo"></a>
 	</div>
 	
-	<div class="cases relative">
+	<div id="casesNav" class="cases relative">
 		<div class="container">
 			<a name="casesNav"></a>
 			<div class="col-lg-12 col-md-12">
 				<h2 class="cases_title">DELOITTE</h2>
 				<p class="frase">PROGRAMA DE HOSPITALIDADE JOGOS OLÍMPICOS LONDRES 2012</p>
 				
-				<div class="slideshow"></div>
-				
-				
+				<div class="slideshow"></div>			
 				
 			</div>
 		</div>
 		<a href="#ondeNav" class="proximo"></a>
 	</div>
-	
-	<div class="onde relative">
+
+	<div id="ondeNav" class="onde relative">
 		<div class="container">
 			<a name="ondeNav"></a>
 			<div class="row">
@@ -184,8 +182,8 @@
 		</div>
 		<a href="#quemNav" class="proximo"></a>
 	</div>
-	
-	<div class="paraQuem relative">
+
+	<div id="quemNav" class="paraQuem relative">
 		<div class="container">
 			<a name="quemNav"></a>
 			<div class="row">
@@ -331,8 +329,8 @@
 		</div>
 		<a href="#queNav" class="proximo"></a>
 	</div>
-	
-	<div class="oQue relative">
+
+	<div id="queNav" class="oQue relative">
 		<div class="container">
 			<a name="queNav"></a>
 			<div class="col-lg-12 col-md-12">
@@ -341,19 +339,43 @@
 				</div>
 				
 				<div class="col-lg-7 col-md-7">
-					<p class="p1">HOSPITALIDADE</p>
+					<!--<p class="p1">HOSPITALIDADE</p>-->
+					<p class="p1" data-toggle="modal" data-target="#myModal">HOSPITALIDADE</p>
 					<p class="p2">ATIVAÇÃO</p>
 					<p class="p3">EVENTO<br>PROPRIETÁRIO</p>
+
 				</div>
 				
 				
 			</div>
 			
+			<!-- Modal -->
+			<div class="modal fade" id="myModal" role="dialog">
+				<div class="modal-dialog">
+
+				  <!-- Modal content-->
+				  <div class="modal-content">
+				    <div class="modal-header">
+				      <button type="button" class="close" data-dismiss="modal">&times;</button>
+				      <h4 class="modal-title">Modal Header</h4>
+				    </div>
+				    <div class="modal-body">
+				      <p>Some text in the modal.</p>
+				    </div>
+				    <div class="modal-footer">
+				      <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+				    </div>
+				  </div>
+				  
+				</div>
+			</div>
+
+
 		</div>
 		<a href="#sobreNav" class="proximo"></a>
 	</div>
-	
-	<div class="sobre relative">
+
+	<div id="sobreNav" class="sobre relative">
 		<div class="container">
 			<a name="sobreNav"></a>
 			<div class="col-lg-12 col-md-12">
@@ -376,8 +398,8 @@
 		</div>
 		<a href="#contatoNav" class="proximo"></a>
 	</div>
-	
-	<div class="contato relative">
+
+	<div id="contatoNav" class="contato relative">
 		<div class="container">
 			<a name="contatoNav"></a>
 			<div class="col-lg-12 col-md-12">
