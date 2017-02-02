@@ -15,6 +15,25 @@ body {
 
 .container {
 	overflow: hidden;
+	transform: translateY(-50%);
+	-webkit-transform: translateY(-50%);
+	-moz-transform: translateY(-50%);
+	-ms-transform: translateY(-50%);
+	-o-transform: translateY(-50%);
+	top: 50%;
+	position: absolute;
+	left: 0;
+	right: 0;
+}
+
+header .container {
+	transform: none;
+	-webkit-transform:none;
+	-moz-transform:none;
+	-ms-transform: none;
+	-o-transform:none;
+	position: relative;
+	top:0;
 }
 
 header {
@@ -423,7 +442,7 @@ a.proximo {
 .contato {
 	background: url(../images/bg_contato.png) center no-repeat;
 	height: 1078px;
-	padding-top: 12em;
+	padding-top: 2em;
 }
 
 .contato h2 {
@@ -437,6 +456,7 @@ a.proximo {
 	font-size: 3.2em;
 	color: #fff;
 	text-align: center;
+	line-height: 1em;
 }
 
 .contato .tag {
@@ -664,5 +684,9 @@ background: #428bca;
 	
 	.contato .tag {
 		margin-top: 1em;
+	}
+	
+	.oQue .p1, .oQue .p2, .oQue .p3 {
+		background-size: 20%;
 	}
 }
