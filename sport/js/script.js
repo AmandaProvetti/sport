@@ -46,7 +46,11 @@ var Menu = {
 	},
 	
 	clickAndAnimate: function() {
-		var diff = $("header").outerHeight()
+		var diff = $("header").outerHeight();
+		if($(window).width() > 700){
+			$(".relative").css({height: $(window).height()-50, backgroundSize: "cover"});
+			$(".manifesto.relative").css({height: $(window).height(), backgroundSize: "cover"})
+		}
 		$(".menu a, .proximo").click(function(e){
 			e.preventDefault();
 			var id = $(this).attr("href"),
