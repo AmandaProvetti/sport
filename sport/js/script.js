@@ -3,6 +3,7 @@ var Menu = {
 	init: function() {
 		if($(window).width() < 760) {
 			$(".toOpen").on("click", function(event){
+				event.preventDefault();
 				event.stopPropagation();
 				$(this).hide();
 				$(".toClose").css("display", "block");
@@ -23,6 +24,7 @@ var Menu = {
 			
 		} else if($(window).width() < 1024) {
 			$(".toOpen").on("click", function(event){
+				event.preventDefault();
 				event.stopPropagation();
 				$(this).hide();
 				$(".toClose").css("display", "block");
@@ -41,12 +43,22 @@ var Menu = {
 				$("header").animate({height: "7em"}, 1200);
 			});
 		}
-		
-		
+	},
+	
+	clickAndAnimate: function() {
+		var diff = $("header").outerHeight()
+		$(".menu a, .proximo").click(function(e){
+			e.preventDefault();
+			var id = $(this).attr("href"),
+					offset = $(id).offset().top;
+			$("body").stop().animate({scrollTop: offset-diff}, "slow", "linear");
+			
+		});
 	}
 	
 };
 
 $(document).ready(function(){	
 	Menu.init();
+	Menu.clickAndAnimate();
 });
