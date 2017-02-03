@@ -64,12 +64,44 @@ var Script = {
 		$(".arrowUp").click(function(){
 				$("body").stop().animate({scrollTop: 0}, "slow", "linear");
 		});
-	}
+	},
 	
+	modalCasesMenu: function() {
+		$(".menuLateral li").click(function(){
+			var caseId = $(this).attr("id");
+			
+			$(".casesList").removeClass("active");
+			$("."+caseId).addClass("active");
+		});
+	},
+	
+	modalCasesArrows: function(){
+		$(".casesToLeft").click(function(){
+			var caseActive = $(".active");		  
+			
+			if(caseActive.prev().length > 0) {
+				$(".casesList").removeClass("active");
+				caseActive.prev().addClass("active");
+			}
+			
+		});
+		
+		$(".casesToRight").click(function(){
+			var caseActive = $(".active");		  
+			
+			if(caseActive.next().length > 0) {
+				$(".casesList").removeClass("active");
+				caseActive.next().addClass("active");
+			}
+			
+		});
+	}
 };
 
 $(document).ready(function(){	
 	Script.init();
 	Script.clickAndAnimate();
 	Script.backToTop();
+	Script.modalCasesMenu();
+	Script.modalCasesArrows();
 });

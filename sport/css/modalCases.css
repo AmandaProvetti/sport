@@ -1,0 +1,15 @@
+.casesList {
+	display: none;
+}
+
+.casesList.active {
+	display: block;
+}
+
+.casesToLeft, .casesToRight {
+	cursor: pointer;
+}
+
+.casesList div {
+	cursor: pointer;
+}
