@@ -13,6 +13,16 @@ body {
 	font-size: 10px;
 }
 
+.arrowUp {
+	position: fixed;
+	bottom: 20px;
+	top: inherit;
+	right: 20px;
+	font-size: 8em;
+	color: #90ff87;
+	cursor: pointer;
+}
+
 .container {
 	overflow: hidden;
 	transform: translateY(-50%);
@@ -349,8 +359,16 @@ a.proximo {
 }
 
 .paraQuem .col-md-2 {
-	height: 145px;
+	height: 9em;
 	border: 1px solid #efefef;
+}
+
+.paraQuem .thumbnail img {
+	width: auto;
+	max-width: 100%;
+	margin: auto;
+	max-height: 100%;
+	padding: 5px;
 }
 
 .paraQuem .item .col-md-2:nth-child(-n+6) {
@@ -412,7 +430,7 @@ a.proximo {
 .sobre {
 	background: url(../images/bg_sobre.png) center no-repeat;
 	height: 1078px;
-	padding-top: 45em;
+	padding-top: 20em;
 }
 
 .sobre h2 {
@@ -446,14 +464,14 @@ a.proximo {
 }
 
 .contato h2 {
-	font-size: 6.2em;
+	font-size: 6em;
 	font-weight: bold;
 	color: #90ff87;
 	text-align: center;
 }
 
 .contato p {
-	font-size: 3.2em;
+	font-size: 3em;
 	color: #fff;
 	text-align: center;
 	line-height: 1em;
@@ -461,7 +479,7 @@ a.proximo {
 
 .contato .tag {
 	color: #454748;
-	font-size: 2.2em;
+	font-size: 2em;
 	background: #90ff87;
 	line-height: 23px;
   border-radius: 15px;
@@ -470,14 +488,14 @@ a.proximo {
 
 .contato .email, .contato .tel {
 	color: #fff;
-	font-size: 2.2em;
+	font-size: 2em;
 	text-align: center;
 	margin-bottom: 50px;
 }
 
 .contato .end {
 	color: #fff;
-	font-size: 2.2em;
+	font-size: 2em;
 	text-align: left;
 	margin-bottom: 50px;
 }
@@ -531,8 +549,6 @@ background: #428bca;
 	}
 }
 
-/* media querie 1024x768 */
-
 @media (max-width: 1023px){
 	body {
 		font-size: 8px;
@@ -573,6 +589,11 @@ background: #428bca;
     right: 0;
     top: 60px;
     margin: 0 auto;
+	}
+	
+	.oQue .p1, .oQue .p2, .oQue .p3 {
+		background-size: 14%;
+		background-position: 1em center;
 	}
 }
 

@@ -1,4 +1,4 @@
-var Menu = {
+var Script = {
 	
 	init: function() {
 		if($(window).width() < 760) {
@@ -48,7 +48,7 @@ var Menu = {
 	clickAndAnimate: function() {
 		var diff = $("header").outerHeight();
 		if($(window).width() > 700){
-			$(".relative").css({height: $(window).height()-50, backgroundSize: "cover"});
+			$(".relative").not(".contato").css({height: $(window).height()-50, backgroundSize: "cover"});
 			$(".manifesto.relative").css({height: $(window).height(), backgroundSize: "cover"})
 		}
 		$(".menu a, .proximo").click(function(e){
@@ -58,11 +58,18 @@ var Menu = {
 			$("body").stop().animate({scrollTop: offset-diff}, "slow", "linear");
 			
 		});
+	},
+	
+	backToTop: function () {
+		$(".arrowUp").click(function(){
+				$("body").stop().animate({scrollTop: 0}, "slow", "linear");
+		});
 	}
 	
 };
 
 $(document).ready(function(){	
-	Menu.init();
-	Menu.clickAndAnimate();
+	Script.init();
+	Script.clickAndAnimate();
+	Script.backToTop();
 });
