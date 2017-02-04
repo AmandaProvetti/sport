@@ -92,10 +92,71 @@ var Script = {
 			if(caseActive.next().length > 0) {
 				$(".casesList").removeClass("active");
 				caseActive.next().addClass("active");
+			}			
+		});
+	},
+	
+	thumbClick: function() {
+		$(".modal .thumbnail").click(function(){
+			var newSrc = $(this).attr("src"),
+					imgFull = $(".img-full"),
+					subTitle = $(this).data("text");
+					$(".thumbnail").removeClass("activeThumb")
+					$(this).addClass("activeThumb");
+					Script.changeInfosAndImg(newSrc, subTitle);
+		});
+	},
+	
+	showAndHideThumbsAndInfo: function(){
+		$(".showThumbs").click(function(){
+			$(".img-full").parent().toggleClass("withThumbs");
+			$(".thumbList ul").fadeToggle();
+		});
+		
+		$(".showInfo").click(function(){
+			$(".img-full").parent().toggleClass("withSubTitle");
+			$(".info p").fadeToggle();
+		});
+	},
+	
+	carousselCasesArrows: function(){
+		$(".imgToLeft").click(function(){
+			var caseActive = $(".activeThumb");		  
+			
+			if(caseActive.parent().prev().children().length > 0) {
+				$(".thumbList .thumbnail").removeClass("activeThumb");
+				caseActive.parent().prev().children().addClass("activeThumb");
+				var newSrc = $(".activeThumb").attr("src"),
+						subtitle = $(".activeThumb").data("text");
+				
+				Script.changeInfosAndImg(newSrc, subtitle );
 			}
 			
 		});
-	}
+		
+		$(".imgToRight").click(function(){
+			var caseActive = $(".activeThumb");	
+			console.log(caseActive)
+			
+			if(caseActive.parent().next().children().length > 0) {
+				$(".thumbList .thumbnail").removeClass("activeThumb");
+				caseActive.parent().next().children().addClass("activeThumb");
+				var newSrc = $(".activeThumb").attr("src"),
+						subtitle = $(".activeThumb").data("text");
+				
+				Script.changeInfosAndImg(newSrc, subtitle );
+			}			
+		});		
+	},
+	
+	changeInfosAndImg: function(image, subtitle) {
+			var imgFull = $(".img-full"),
+				info = $(".info p");
+		
+			imgFull.attr("src", image).hide();
+			imgFull.fadeIn(1000);
+			info.text(subtitle);
+}
 };
 
 $(document).ready(function(){	
@@ -104,4 +165,7 @@ $(document).ready(function(){
 	Script.backToTop();
 	Script.modalCasesMenu();
 	Script.modalCasesArrows();
+	Script.thumbClick();
+	Script.showAndHideThumbsAndInfo();
+	Script.carousselCasesArrows();
 });

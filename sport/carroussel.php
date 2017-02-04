@@ -82,9 +82,10 @@
 	</div>
 </div>
 
- <div class="modal fade" id="modalCase2" role="dialog">
+ <div class="modal fade modalCase" id="modalCase2" role="dialog">
 		<div class="modal-dialog">
-
+		
+<div class="imgToLeft glyphicon glyphicon-chevron-left"></div>
 		<!-- Modal content-->
 		<div class="modal-content">
 			<div class="modal-header">
@@ -92,12 +93,37 @@
 					<h4 class="modal-title">Modal Header</h4>
 			</div>
 			<div class="modal-body">
-				<p>CASE2</p>
+				<div class="pull-left">
+					<div class="info pull-left">
+						<span class="showInfo">Mostra Info</span>
+							<p>Legenda1</p>
+					</div>
+					<div class="pull-left"><img class="img-responsive img-full large" src="images/carroussel/sports-q-c-640-480-1.jpg"/></div>
+					<div class="thumbList">
+						<span class="showThumbs">Mostra Thumbs</span>
+						<ul>
+							<li><img class="activeThumb thumbnail img-responsive" data-text="Legenda1" 
+												src="images/carroussel/sports-q-c-640-480-1.jpg"/></li>
+							<li><img class="thumbnail img-responsive" data-text="Legenda2" 
+												src="images/carroussel/sports-q-c-640-480-3.jpg"/></li>
+							<li><img class="thumbnail img-responsive" data-text="Legenda3" 
+												src="images/carroussel/sports-q-g-640-480-10.jpg"/></li>
+							<li><img class="thumbnail img-responsive" data-text="Legenda1" 
+												src="images/carroussel/sports-q-c-640-480-1.jpg"/></li>
+							<li><img class="thumbnail img-responsive" data-text="Legenda2" 
+												src="images/carroussel/sports-q-c-640-480-3.jpg"/></li>
+							<li><img class="thumbnail img-responsive" data-text="Legenda3" 
+												src="images/carroussel/sports-q-g-640-480-10.jpg"/></li>
+						</ul>
+					</div>
+					
+				</div>
 			</div>
 			<div class="modal-footer">
 				<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
 			</div>
 		</div>
+		<div class="imgToRight glyphicon glyphicon-chevron-right"></div>
 	</div>
 </div>
 

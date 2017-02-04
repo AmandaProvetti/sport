@@ -1,3 +1,6 @@
+.modalCase .modal-body {
+	overflow: hidden;
+}
 .casesList {
 	display: none;
 }
@@ -12,4 +15,46 @@
 
 .casesList div {
 	cursor: pointer;
+}
+
+.thumbList, .info {
+	width: 20%;
+}
+
+.thumbList {
+	position: absolute;
+	right: 10px;
+	max-height: 100%;
+	top: 0;
+	overflow: auto;
+}
+
+.thumbList ul, .info p{
+	display: none;
+}
+
+.thumbList ul li {
+	list-style: none;
+}
+
+.thumbnail {
+	width: 100px;
+	height: 100px;
+}
+
+.img-full {
+	width: 100%
+}
+
+.withThumbs, .withSubTitle {
+	width:80%;
+}
+
+.modalCase .imgToRight, .modalCase .imgToLeft {
+	color: #fff;
+	font-size: 50px;
+}
+
+.withThumbs.withSubTitle {
+	width:60%;
 }
